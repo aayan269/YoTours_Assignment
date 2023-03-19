@@ -1,4 +1,4 @@
-Frontend deployed link: https://yotours.vercel.app/
+Deployed link: https://yotours.vercel.app/
 
 
 TaskManager
